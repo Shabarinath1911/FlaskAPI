@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/main.py" />
+    <option name="forceFullIndex" value="false" />
+    <option name="fileSummaryMaps" value="{&quot;C:/Users/ShabarinathChede/PycharmProjects/APITESTING/pythonProject1&quot;:&quot;{\&quot;/main.py\&quot;:\&quot;\&quot;}&quot;}" />
+    <option name="fileSkeletonMaps" value="{&quot;C:/Users/ShabarinathChede/PycharmProjects/APITESTING/pythonProject1&quot;:&quot;{\&quot;/main.py\&quot;:{\&quot;file_path\&quot;:\&quot;/main.py\&quot;,\&quot;file_name\&quot;:\&quot;main.py\&quot;,\&quot;methods\&quot;:[{\&quot;method_name\&quot;:\&quot;home\&quot;,\&quot;method_parameters\&quot;:\&quot;()\&quot;,\&quot;parameter_declarations\&quot;:[],\&quot;return_type\&quot;:\&quot;\&quot;,\&quot;scope\&quot;:[[5,0],[6,38]]},{\&quot;method_name\&quot;:\&quot;get_data\&quot;,\&quot;method_parameters\&quot;:\&quot;()\&quot;,\&quot;parameter_declarations\&quot;:[],\&quot;return_type\&quot;:\&quot;\&quot;,\&quot;scope\&quot;:[[9,0],[15,24]]},{\&quot;method_name\&quot;:\&quot;add_data\&quot;,\&quot;method_parameters\&quot;:\&quot;()\&quot;,\&quot;parameter_declarations\&quot;:[],\&quot;return_type\&quot;:\&quot;\&quot;,\&quot;scope\&quot;:[[18,0],[20,63]]}]}}&quot;}" />
+  </component>
+</project>
